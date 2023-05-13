@@ -1,0 +1,1 @@
+export const GET_DISTANCE_BETWEEN_TWO_ZIP = "https://localhost:44308/api/DistanceCalculator";
